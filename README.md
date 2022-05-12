@@ -1,5 +1,4 @@
 # 1° Desafio
-===
 
 Esse é o repositório criado para cumprir o primeiro desafio do Bootcamp GFT Start #5 .NET
 
